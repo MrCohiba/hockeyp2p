@@ -20,4 +20,3 @@ python3 main.py или python main.py
 <img width="796" alt="menu" src="https://github.com/MrCohiba/hockeyp2p/assets/172183761/d0f7e89b-26cd-4c40-a794-363898603c9d">
 <img width="800" alt="screen" src="https://github.com/MrCohiba/hockeyp2p/assets/172183761/75df35fd-8a08-4e9d-8471-f0fe1c44c32b">
 <img width="801" alt="win" src="https://github.com/MrCohiba/hockeyp2p/assets/172183761/19c8ee83-7778-4b72-b82b-a54d9d339a97">
-![p2p](https://github.com/MrCohiba/hockeyp2p/assets/172183761/8ff5581f-71e4-4d54-9355-ebd92252eeb5)
